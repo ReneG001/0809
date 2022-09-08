@@ -1,0 +1,31 @@
+/*.container {
+  background: url("images/poly1.png") center center;
+  background-repeat: no-repeat;
+}
+*/
+footer {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+/*  Footer Copyright   */
+
+.bg-dark {
+  background: #004650 !important;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  -webkit-box-shadow: 0px 0px 25px 5px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 0px 25px 5px rgba(0, 0, 0, 0.3);
+}
+
+.copyright {
+  font-size: 14px;
+  color: #ccc;
+}
+.socials a {
+  color: #ccc;
+}
+.mt-5,
+.my-5 {
+  margin-top: 0px !important;
+}

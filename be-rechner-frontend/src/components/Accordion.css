@@ -1,0 +1,46 @@
+.accordion-body {
+  background: rgb(219, 219, 219);
+}
+
+.accordion {
+  min-height: 60px;
+  float: left;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.accordion-item {
+  background: #fff;
+  float: left;
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+}
+.accordion-header {
+  text-align: left;
+  margin: 0px 0px 0px 0px;
+  font-size: 16px;
+  font-weight: 400;
+  background: #ffffff;
+  color: #fff;
+  width: 100%;
+  box-sizing: border-box;
+}
+.acc-infos {
+  width: 60px;
+}
+.accordion-header img {
+  margin-left: 5px;
+}
+.accordion-button {
+  cursor: pointer;
+  text-align: left;
+  padding: 10px 30px;
+  width: 100%;
+  background: none;
+  border: none;
+}
+.accordion-button:hover {
+  background: none;
+  border: none;
+}
